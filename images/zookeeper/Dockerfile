@@ -1,4 +1,4 @@
-x# Copyright Greg Haskins All Rights Reserved
+# Copyright Greg Haskins All Rights Reserved
 # Copyright IBM Corp. All Rights Reserved.
 #
 # SPDX-License-Identifier: Apache-2.0
